@@ -18,11 +18,11 @@ h1 {
   width: 100%;
 }
 .top-banner {
-  background-image: url("/img/top-banner.png");
+  background-image: url("img/top-banner.png");
   background-repeat: no-repeat;
 }
 .middle-banner {
-  background-image: url(/img/dream-bg.png);
+  background-image: url(img/dream-bg.png);
   background-repeat: no-repeat;
   background-position: right;
 }
@@ -47,7 +47,7 @@ section {
   background-color: #fff;
 }
 #full-stack {
-  background-image: url(/img/exp-bg.png);
+  background-image: url(img/exp-bg.png);
   background-repeat: no-repeat;
   background-position: left;
 }
